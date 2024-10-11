@@ -1,4 +1,4 @@
-package com.breez.practice_two.library;
+package com.breez.practice_2.library;
 
 import java.time.LocalDate;
 import java.util.HashMap;

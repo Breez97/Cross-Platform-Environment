@@ -1,4 +1,4 @@
-package com.breez.practice_two.shop;
+package com.breez.practice_2.shop;
 
 import java.util.ArrayList;
 import java.util.List;
